@@ -62,7 +62,7 @@ $ whoami
 <div align="center">
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=Pavelevich&show_icons=true&hide_border=true&bg_color=000000&title_color=00FF00&icon_color=00FF00&text_color=ffffff&hide_rank=false" alt="GitHub Stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pavelevich&layout=compact&hide_border=true&bg_color=000000&title_color=00FF00&text_color=ffffff" alt="Top Languages" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pavelevich&layout=compact&hide_border=true&bg_color=000000&title_color=00FF00&text_color=ffffff&hide=html" alt="Top Languages" />
 
 <br/>
 
