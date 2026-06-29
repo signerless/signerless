@@ -20,7 +20,7 @@ $ whoami
   Role:    Systems Engineer @ TETSUO
   Stack:   Rust · TypeScript · Python · C++ · Swift
   Focus:   AI Agents · Solana · Blockchain · IoT · Privacy
-  Motto:   ">>looking beyond inspiration"
+  Motto:   "You have power over your mind — not outside events."
 ```
 
 ---
